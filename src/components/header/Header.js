@@ -45,6 +45,9 @@ class HeaderComponent extends Component {
                     <NavItem>
                         <NavLink exact tag={RRNavLink} to="/images">Снимки</NavLink>
                     </NavItem>
+                    <NavItem>
+                        <NavLink exact tag={RRNavLink} to="/darling">Любимец13</NavLink>
+                    </NavItem>
                     </Nav>
                 </Collapse>
             </div>
